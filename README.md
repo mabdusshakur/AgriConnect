@@ -122,3 +122,24 @@ I didn't got enough time, i just had some around 20h free on my hand, i used it 
 
 
 ## Some Screenshots
+
+![Screenshot 2025-04-27 at 10-09-02 Vite React](https://github.com/user-attachments/assets/99d976ea-72eb-4b89-a84f-8388e597f1d4)
+![Screenshot 2025-04-27 at 10-09-20 Vite React](https://github.com/user-attachments/assets/c15e4766-0eb2-4197-a52a-4ceb543f17c5)
+![Screenshot 2025-04-27 at 10-09-36 Vite React](https://github.com/user-attachments/assets/ffe5cd6d-34a5-4a35-a7d1-5fdf5ce9c6f6)
+![Screenshot 2025-04-27 at 10-09-45 Vite React](https://github.com/user-attachments/assets/dd097a61-469a-46d6-b21e-3ee09a3a6190)
+![Screenshot 2025-04-27 at 10-09-57 Vite React](https://github.com/user-attachments/assets/501f35a4-218f-4f33-9558-1b7f798798e0)
+![Screenshot 2025-04-27 at 10-10-05 Vite React](https://github.com/user-attachments/assets/06283511-4879-4f87-bc0d-1a544a95cb32)
+![Screenshot 2025-04-27 at 10-10-19 Vite React](https://github.com/user-attachments/assets/d1060e2c-8a74-4133-a7d8-43acf865aa2c)
+![Screenshot 2025-04-27 at 10-10-42 Vite React](https://github.com/user-attachments/assets/745c15cb-930c-4af9-b9c5-f06a2d9db5e0)
+![Screenshot 2025-04-27 at 10-13-52 Vite React](https://github.com/user-attachments/assets/3b504823-b891-4056-94cd-1a3ea9f5004e)
+![Screenshot 2025-04-27 at 10-14-42 Vite React](https://github.com/user-attachments/assets/e895694a-ea62-494c-b5b3-990b056a7c15)
+![Screenshot 2025-04-27 at 10-14-55 Vite React](https://github.com/user-attachments/assets/b651cf94-9876-4644-af51-704cb6149bb9)
+![Screenshot 2025-04-27 at 10-15-10 Vite React](https://github.com/user-attachments/assets/2f696c2b-c53e-456b-85d9-76a0a8987f58)
+![Screenshot 2025-04-27 at 10-15-40 Vite React](https://github.com/user-attachments/assets/fec8dafc-10a1-4836-9547-80f086f637e4)
+![Screenshot 2025-04-27 at 10-16-10 Vite React](https://github.com/user-attachments/assets/e33da592-269c-45c9-afa6-da07d0cf8926)
+![Screenshot 2025-04-27 at 10-16-16 Vite React](https://github.com/user-attachments/assets/40a5222d-ad85-4286-b8ad-757741d7a3ac)
+![Screenshot 2025-04-27 at 10-16-34 Vite React](https://github.com/user-attachments/assets/7a951c96-4897-41b3-93a3-7711a1340895)
+![Screenshot 2025-04-27 at 10-16-55 Vite React](https://github.com/user-attachments/assets/361514db-5b9a-4748-be10-12069d0754d4)
+![Screenshot 2025-04-27 at 10-17-02 Vite React](https://github.com/user-attachments/assets/42b8af81-1b8f-4db1-9867-9731b73a1172)
+![Screenshot 2025-04-27 at 10-17-10 Vite React](https://github.com/user-attachments/assets/2e062513-8255-4b33-af85-5326333462b9)
+![Screenshot 2025-04-27 at 10-17-16 Vite React](https://github.com/user-attachments/assets/dcd8dd76-6f14-4840-9453-adbc748958b7)
